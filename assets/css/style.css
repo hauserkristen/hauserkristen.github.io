@@ -546,25 +546,13 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
-
-.teal-text {
-  color: #008073 !important;
+.primary-color-text {
+  color: #2E5A88 !important;
 }
 
-/* .teal-text {
-  color: #0b5e86 !important;
-} */
-
-/* .teal */
-
-.teal {
-  background-color: #008073 !important;
+.primary-color {
+  background-color: #2E5A88 !important;
 }
-
-/* .teal {
-  background-color: #00695c !important;
-} */
 
 @media (min-width: 1200px) {
   #experience .container {
