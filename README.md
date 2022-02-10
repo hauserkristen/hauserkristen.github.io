@@ -1,10 +1,9 @@
 Personal Profile
 
 ## Sections
-- About me\
-- Experience\
-- Projects \
-- Skills \
-- Education\
-- Contact Info\
-- Resume
+- About Me
+- Experience
+- Projects
+- Skills
+- Education
+- Contact Info
